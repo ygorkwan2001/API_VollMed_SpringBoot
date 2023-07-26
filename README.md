@@ -8,6 +8,11 @@
 
 ![download](https://github.com/ygorkwan2001/API_VollMed_SpringBoot/assets/88592898/687599c2-6561-4a64-831e-b76cd80a9afc)
 
+![Spring_Security](https://github.com/ygorkwan2001/API_VollMed_SpringBoot/assets/88592898/5c60ac06-a424-4da4-9cd0-97e8afe4be82)
+
+![download](https://github.com/ygorkwan2001/API_VollMed_SpringBoot/assets/88592898/55c7f0c1-b830-4a06-a587-f1705bb35ece)
+
+
 Bibliotecas: Flyway,Lombok, Migrations, Validation
 
 ## Regras de Negocio
@@ -60,3 +65,7 @@ O sistema deve possuir uma funcionalidade que permita a exclusão de médicos ca
 As seguintes regras de negócio devem ser validadas pelo sistema:
 
 A exclusão não deve apagar os dados do médico, mas torná-lo como "inativo" no sistema.
+
+## Link Para Testes no Postman
+
+https://drive.google.com/file/d/1q3tvxm8JOHKejbnI59WEGEtRd4oGxHgI/view?usp=drive_link
